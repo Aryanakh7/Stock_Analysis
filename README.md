@@ -1,4 +1,4 @@
-# stock-analysis
+# Stock Analysis
 
 ## **Overview of Project**
 
@@ -10,9 +10,12 @@ Refactoring has allowed elements of the project to run faster and therefore incr
 
 ![image](https://user-images.githubusercontent.com/75655852/104109874-2f7e8d80-52a0-11eb-823f-41801293f9d1.png)
 *2017 Analysis*
+In 2017, the stocks mostly generated a positive return, with DQ having the highest return rate. Only TERP generated a negative return.
 
 ![image](https://user-images.githubusercontent.com/75655852/104111257-f9480a80-52ad-11eb-8c07-280ec3214c67.png)
 *2018 Analysis*
+In 2018, the situation changed and most stocks were listed as red, meaning tnat their Rate of Return was negative. Only ERPH and RUN had positive returns. The negative rate of return could be explained by headlines and events affecting a company's stocks.
+
 
 ## **Advantages and Disadvantages of Code Refactoring**
 
