@@ -9,10 +9,10 @@ The purpose of this project was to refactor the analysis of the data provide by 
 Refactoring has allowed elements of the project to run faster and therefore increase its user efficacity. The time taken to initiate the analysis for 2017 and 2018 has been significantly reduced and the final code has been made user friendly as opposed to the original one.
 
 ![image](https://user-images.githubusercontent.com/75655852/104109874-2f7e8d80-52a0-11eb-823f-41801293f9d1.png)
-2017 Analysis
+*2017 Analysis*
 
 ![image](https://user-images.githubusercontent.com/75655852/104111257-f9480a80-52ad-11eb-8c07-280ec3214c67.png)
-2018 Analysis
+*2018 Analysis*
 
 ## **Advantages and Disadvantages of Code Refactoring**
 
