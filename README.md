@@ -16,7 +16,7 @@ In 2017, the stocks mostly generated a positive return, with DQ having the highe
 ![image](https://user-images.githubusercontent.com/75655852/104111257-f9480a80-52ad-11eb-8c07-280ec3214c67.png)
 *2018 Analysis*
 
-In 2018, the situation changed and most stocks were listed as red, meaning tnat their Rate of Return was negative. Only ERPH and RUN had positive returns. The negative Rate of Return could be explained by headlines and events affecting a company's stocks.
+In 2018, the situation changed and most stocks were listed as red, meaning that their Rate of Return was negative. Only ERPH and RUN had positive returns. The negative Rate of Return could be explained by headlines and events affecting a company's stocks.
 
 
 ## **Advantages and Disadvantages of Code Refactoring**
