@@ -25,7 +25,7 @@ In 2018, the situation changed and most stocks were listed as red, meaning that 
 
 Code refactoring has many advantages and disadvantages. It is quite advantageous to maintain a code clean and it becomes easy to understand, as refactoring helps to make the program run faster and identify possible bugs. It is also important in avoiding duplicate codes and it can help another viewer/developer understand the code by facilitating its readability. Lastly, refactoring organizes codes to make different parts of the features manageable and decrease its complexity.
 
-### *Disadvantages*
+### *Disadvantages* 
 
 The main disadvantage of refactoring is the time it takes to achieve it, as an estimation to complete different processes will vary according to the complexity of projects. If the one conducting the refactoring is different from the initial developer, the code could be changed, and this could alter the original project. In addition, taking too many shortcuts to refactor could prove difficult in finding an appropriate direction for the code. 
 
