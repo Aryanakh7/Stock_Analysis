@@ -32,5 +32,5 @@ The main disadvantage of refactoring is the time it takes to achieve it, as an e
 ## **Advantages and Disadvantages of the Original and Refactored VBA Script**
 
 The original VBA script could be described as advantageous because the steps to run the codes were organized adequately and necessary comments were provided. However, a disadvantage could be that the steps were too lengthy and following the progression of the code became difficult as the code evolved and increased in complexity. 
-
+ 
 In contrast, refactoring was useful in achieving a simplified version of the original VBA script, and making it more presentable. The refactored code did not provide as many details as the original code, and it added steps and codes that could increase the possibility of creating bugs and of loosing the direction of the project. 
